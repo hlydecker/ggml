@@ -1,10 +1,10 @@
-Package: ggvaRimp
-Title: Make Ggplot Variable Importance Plots for your Random Forests
+Package: ggml
+Title: Aesthetic Machine Learning Metrics Powered By Ggplot2
 Version: 0.0.0.9000
 Authors@R: 
     person("Henry", "Lydecker", , "first.last@example.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Wrapper of caret::varImp() that allows you to make a nice looking ggplot random forest variable importance plot. 
+Description: Various wrappers and functions to generate pretty and informative ggplot2 plots of machine learning metrics.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
