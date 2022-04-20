@@ -2,6 +2,14 @@
 
 Aesthetically pleasing machine learning metrics powered by ggplot2.
 
+### Installation
+
+```r
+library(devtools)
+
+install_github("hlydecker/ggml")
+```
+
 ## Data Exploration
 
 ### gg_raincloud
